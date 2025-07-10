@@ -71,7 +71,7 @@ http://127.0.0.1:5000/
 ```
 
 📷 Screenshots
-Add UI screenshots here if available
+UI screenshots 
 1)App UI:
 ![alt text](screenshots/image1.png)
 2)Output predictions:
