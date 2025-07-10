@@ -72,5 +72,5 @@ http://127.0.0.1:5000/
 
 🙋‍♀️ Author
 Hetvi
-📧 hetvis.pro@example.com
+📧 hetvis.pro@gmail.com
 🔗 https://www.linkedin.com/in/hetvi-sodha-pro/
