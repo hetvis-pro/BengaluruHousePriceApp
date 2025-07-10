@@ -70,7 +70,16 @@ http://127.0.0.1:5000/
 
 ```
 
+📷 Screenshots
+Add UI screenshots here if available
+1)App UI:
+![alt text](screenshots/image1.png)
+2)Output predictions:
+![alt text](screenshots/image2.png)
+
+<!-- 3)EC2 deployment running: -->
+
 🙋‍♀️ Author
-Hetvi 
+Hetvi
 📧 hetvis.pro@gmail.com
 🔗 https://www.linkedin.com/in/hetvi-sodha-pro/
