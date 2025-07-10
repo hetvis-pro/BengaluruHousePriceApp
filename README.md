@@ -39,7 +39,7 @@ BengaluruHousePriceApp/
 ## 🧠 ML Training Details
 
 - **Algorithm**: Linear Regression
-- **Dataset**: [Kaggle - Bengaluru House Data](https://www.kaggle.com/datasets/)
+- **Dataset**: [Kaggle - Bengaluru House Data](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data)
 
 ---
 
