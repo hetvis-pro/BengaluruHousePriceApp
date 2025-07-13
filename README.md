@@ -56,7 +56,7 @@ BengaluruHousePriceApp/
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/hetvis-pro/BengaluruHousePriceApp.git
+git clone https://github.com/hetvis-pro/bengaluru-house-price-app.git
 cd BengaluruHousePriceApp
 
 # 2. Install required dependencies
