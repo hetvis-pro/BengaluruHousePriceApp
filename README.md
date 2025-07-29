@@ -14,7 +14,7 @@ A machine learning web application to estimate real estate prices in Bengaluru b
 ---
 
 ## 📁 Project Structure
-
+```
 BengaluruHousePriceApp/
 ├── model/ # Saved ML model and feature columns
 ├── static/ # CSS styles and frontend JavaScript
@@ -23,7 +23,7 @@ BengaluruHousePriceApp/
 ├── notebooks/ # Jupyter notebook for model training
 ├── requirements.txt # Project dependencies
 └── README.md # You're reading it!
-
+```
 ---
 
 ## 📊 Model & Tech Stack
